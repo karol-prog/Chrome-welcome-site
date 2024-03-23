@@ -6,7 +6,9 @@
     <link rel="stylesheet" href="style.css" />
     <title>Momentum clone</title>
   </head>
-  <body class="text-slate-50 bg-cover bg-no-repeat h-screen box-border">
+  <body
+    class="text-neutral-50 bg-cover bg-no-repeat bg-center h-screen box-border"
+  >
     <main class="h-screen flex flex-col justify-between p-5">
       <!-- top section -->
       <div class="flex justify-between content-center">
@@ -21,12 +23,22 @@
         <div id="weather" class="text-center"></div>
       </div>
       <!-- middle section -->
-      <h1
+      <div class="text-center">
+        <p id="current-day" class="text-xl"></p>
+        <h1
+          id="day-time"
+          class="text-9xl text-center font-semibold pb-4 text-shadow-sm"
+        ></h1>
+        <div id="quote">
+          <!-- quote -->
+        </div>
+      </div>
+      <!--  <h1
         id="day-time"
         class="text-9xl text-center font-semibold py-2 text-shadow-sm"
-      >
-        <!-- time here -->
-      </h1>
+      > -->
+      <!-- time here -->
+      <!-- </h1> -->
       <!-- lower section -->
       <p id="username" class="text-shadow-sm"></p>
     </main>
