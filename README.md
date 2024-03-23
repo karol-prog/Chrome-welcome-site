@@ -3,8 +3,8 @@ Your daily website homepage.
 
 ## Features
 
-- Information about dogecoin, weather, photo author, current date and day time
-- New background images, quotes after refreshing the site
+- Information about dogecoin, weather, photo author, current date, and day time
+- New background images, and quotes after refreshing the site
 ## What I Learned
 
 - Working with multiple APIs
