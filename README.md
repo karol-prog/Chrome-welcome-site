@@ -12,3 +12,6 @@ Your daily website homepage.
 - try/catch statement
 - How to process the data from Api
 - First time using Tailwind CSS
+
+## Live Preview
+https://karol-chrome-welcome-site.netlify.app/
